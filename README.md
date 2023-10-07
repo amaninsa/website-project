@@ -8,6 +8,8 @@ company and their product is available on this GitHub link.
 
 https://github.com/amaninsa/website-project/
 
+to build the project step by step , Please refer the document Devops-Capstone-Project.docx file.
+
 
 
 
